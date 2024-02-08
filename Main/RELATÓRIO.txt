@@ -1,0 +1,3 @@
+Relatório de Clientes:
+------------------------------
+123231231231	(12)231231231	213213231	Cachorro	Airedale Terrier	azul	Banho	null	
